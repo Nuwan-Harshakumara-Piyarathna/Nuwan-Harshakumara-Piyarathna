@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Nuwan Harsha , a Web developer, a Android developer and a Competitive Programmer in Sri Lanka
 
 
- 🔭 I’m currently working on [3rd year project](https://github.com/NuwanHarsha/e16-3yp-computerized-timetabling-and-attendance-marking-system)
+ 🔭 I’m currently working on [Quiz Me](https://github.com/Team-nanocode/Quiz-me)
  
  🌱 I’m currently learning Cloud computing, Machine learing
  
