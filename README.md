@@ -9,6 +9,8 @@
  
  📫 How to reach me: <nuwan.harshamatrix@gmail.com>
  
+ ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=NuwanHarsha.NuwanHarsha&color=00cf00)
+ 
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NuwanHarsha&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuwanHarsha&langs_count=4&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
