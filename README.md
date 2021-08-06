@@ -1,3 +1,5 @@
+[<img src="https://raw.githubusercontent.com/NuwanHarsha/NuwanHarsha/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+
 ### Hi there 👋 I am Nuwan Harsha , a Web developer, a Android developer and a Competitive Programmer in Sri Lanka
 
 
