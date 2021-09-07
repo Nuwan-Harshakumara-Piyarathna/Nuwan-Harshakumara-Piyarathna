@@ -15,6 +15,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuwan-Harshakumara-Piyarathna&langs_count=4&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nuwan-Harshakumara-Piyarathna&column=7&theme=radical" alt="" /></a></p>
+
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
