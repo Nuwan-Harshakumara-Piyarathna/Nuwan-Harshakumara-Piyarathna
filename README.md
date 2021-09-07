@@ -1,4 +1,4 @@
-### Hi there 👋 I am Nuwan Harsha , a Web developer, an Android developer and a Competitive Programmer in Sri Lanka
+### Hi there 👋 I am Nuwan Harsha , a Full Stack Developer in Sri Lanka
 
 
  🔭 I’m currently working on [Quiz Me](https://github.com/Team-nanocode/Quiz-me)
@@ -16,6 +16,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuwan-Harshakumara-Piyarathna&langs_count=4&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nuwan-Harshakumara-Piyarathna&column=7&theme=radical" alt="" /></a></p>
+
+[![Thilini's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nuwan-Harshakumara-Piyarathna&bg_color=011627&color=c792ea&line=7fdbca&point=ffeb95&area=true)](https://github.com/Nuwan-Harshakumara-Piyarathna/github-readme-activity-graph)
 
 ## 🧰 Languages and Tools:
 <p align="center">
