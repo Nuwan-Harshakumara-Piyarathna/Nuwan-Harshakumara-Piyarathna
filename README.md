@@ -15,11 +15,11 @@
  
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nuwan-Harshakumara-Piyarathna&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuwan-Harshakumara-Piyarathna&langs_count=4&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuwan-Harshakumara-Piyarathna&layout=compact&langs_count=10&theme=radical)
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nuwan-Harshakumara-Piyarathna&column=7&theme=radical" alt="" /></a></p>
 
-[![Thilini's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nuwan-Harshakumara-Piyarathna&bg_color=011627&color=c792ea&line=7fdbca&point=ffeb95&area=true)](https://github.com/Nuwan-Harshakumara-Piyarathna/github-readme-activity-graph)
+[![Nuwan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nuwan-Harshakumara-Piyarathna&bg_color=011627&color=c792ea&line=7fdbca&point=ffeb95&area=true)](https://github.com/Nuwan-Harshakumara-Piyarathna/github-readme-activity-graph)
 
 ## 🧰 Languages and Tools:
 <p align="center">
