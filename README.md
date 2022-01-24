@@ -9,7 +9,7 @@
  
  📫 How to reach me: <nuwan.harshamatrix@gmail.com>
  
- ⚡ Hobbies: listening music, watching movies
+ ⚡ Hobbies: listening music, watching movies & tv-series
  
  ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Nuwan-Harshakumara-Piyarathna.Nuwan-Harshakumara-Piyarathna&color=00cf00)
  
