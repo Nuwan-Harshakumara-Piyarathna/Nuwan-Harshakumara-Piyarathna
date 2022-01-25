@@ -17,7 +17,7 @@
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuwan-Harshakumara-Piyarathna&layout=compact&langs_count=10&theme=radical)
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nuwan-Harshakumara-Piyarathna&column=7&theme=radical" alt="" /></a></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Nuwan-Harshakumara-Piyarathna&column=7&theme=radical" alt="" /></p>
 
 [![Nuwan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nuwan-Harshakumara-Piyarathna&bg_color=011627&color=c792ea&line=7fdbca&point=ffeb95&area=true)](https://github.com/Nuwan-Harshakumara-Piyarathna/github-readme-activity-graph)
 
