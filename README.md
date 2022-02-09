@@ -3,7 +3,7 @@
 
  🔭 I’m currently working on [Quiz Me](https://github.com/Team-nanocode/Quiz-me)
  
- 🌱 I’m currently learning Cloud computing, Machine learing
+ 🌱 I’m currently learning Computer Security, Machine learing
  
  💬 Ask me anything about Web development,Android development and Competitive Programming
  
