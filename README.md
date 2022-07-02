@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Nuwan Harsha , a Full Stack Developer in Sri Lanka
 
 
- 🔭 I’m currently working on [Quiz Me](https://github.com/Team-nanocode/Quiz-me)
+ 🔭 I’m currently working on [Soil Content Analyzer](https://github.com/Nuwan-Harshakumara-Piyarathna/Soil-Content-Analyzere)
  
  🌱 I’m currently learning Computer Security, Machine learing
  
