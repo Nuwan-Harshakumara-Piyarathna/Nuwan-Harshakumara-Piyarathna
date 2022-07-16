@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Nuwan Harsha , a Full Stack Developer in Sri Lanka
 
 
- 🔭 I’m currently working on the project, [Soil Content Analyzer](https://github.com/Nuwan-Harshakumara-Piyarathna/Soil-Content-Analyzere)
+ 🔭 I’m currently working on the project, [Soil Content Analyzer](https://github.com/Nuwan-Harshakumara-Piyarathna/Soil-Content-Analyzer)
  
  🌱 I’m currently learning Computer Security, Machine learing
  
