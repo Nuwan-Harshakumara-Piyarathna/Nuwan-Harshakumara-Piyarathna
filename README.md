@@ -9,7 +9,7 @@
  
  ⚡ Hobbies: listening music, watching movies & tv-series
  
- 🤔 Do you want to know more about me ? [Here](https://nuwan.me) is my Personal Website.
+ 🤔 Do you want to know more about me ? [Here](https://nuwanharsha.me) is my Personal Website.
  
  ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Nuwan-Harshakumara-Piyarathna.Nuwan-Harshakumara-Piyarathna&color=00cf00)
  
